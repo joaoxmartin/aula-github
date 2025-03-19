@@ -1,4 +1,9 @@
 exemplo de branch
 teste 4
+<<<<<<< HEAD
 Alteração teste4
 nova Alteração teste4
+=======
+EXEMPLO DE CONFLITO NO COMMIT
+teste novo conflito conflito
+>>>>>>> d017fde1808cacc68de4b833c6e2cd8e340f3366
